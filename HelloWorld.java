@@ -7,7 +7,7 @@ public class HelloWorld{
   System.out.println("Added another line");
   System.out.println("Added another line");
   System.out.println("Added another line");
-int num1=30
+int num1=30;
 
     }
 }
