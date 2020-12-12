@@ -8,7 +8,7 @@ public class HelloWorld{
   System.out.println("Added another line");
   System.out.println("Added another line");
 int num1=30;
-float salary=909897738729;
+float salary=909800;
 System.out.println("Alfiya Here");
 
     }
